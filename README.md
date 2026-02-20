@@ -38,7 +38,7 @@ PS C:\> .\remediation_WN11-CC-000285.ps1
 ![Registry Value](fEncryptRPCTraffic_1.png)
 ## Testing Information
 - **Tested By**: Symone-Marie Priester
-- **Date Tested**: February 20, 2026
+- **Date Tested**: February 19, 2026
 - **System**: Windows 11 (Version 10.0.26200.7623)
 - **PowerShell Version**: 5.1
 - **Methods**: Both automated (PowerShell) and manual (Group Policy Editor)
